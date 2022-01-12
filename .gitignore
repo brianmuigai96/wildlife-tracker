@@ -19,6 +19,7 @@
 *.tar
 *.zip
 
+
 # Logs and databases #
 ############
 *.log
@@ -44,6 +45,7 @@ gradle
 gradlew.bat
 gradlew
 settings.gradle
+
 
 # IntelliJ #
 ############
