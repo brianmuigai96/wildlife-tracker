@@ -5,7 +5,7 @@
 The Forest Service is considering a proposal from a timber company to clearcut a nearby forest of Douglas Fir. Before this proposal may be approved, they must complete an environmental impact study. You have been asked to build an application that allows Rangers to track wildlife sightings in the area.
 ## Setup/Installation Requirements
 * git clone https://github.com/brianmuigai96/Wildlife-Tracker.git
-* cd your/path/to/Wildlife-Tracker
+* cd your/path/to/wildlife-tracker
 * open with Intellij or editor of choice eg. Eclipse
 * Launch Postgres via terminal with the command: psql
 
@@ -21,7 +21,11 @@ Make sure you have gradle, spark and PostgreSQL installed.
 ## Known Bugs
 There are no known bugs at the moment
 ## Technologies Used
-Java, Spark, Handlebars, PostgreSQL Bootstrap, CSS
+Java Spark, 
+Handlebars, 
+PostgreSQL 
+Bootstrap, 
+CSS
 ## Support and contact details
 muigaibrian@gmail.com
 ### License
