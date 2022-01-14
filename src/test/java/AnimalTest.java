@@ -46,7 +46,7 @@ public class AnimalTest {
         Animal skipper = new Animal("Skipper");
         skipper.save();
         assertTrue(Animal.all().get(0).equals(rex));
-        assertTrue(Animal.all().get(1).equals(alpha);
+        assertTrue(Animal.all().get(1).equals(alpha));
         assertTrue(Animal.all().get(2).equals(skipper));
     }
 

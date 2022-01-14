@@ -26,7 +26,7 @@ public class App {
             model.put("sightings", sightings);
             model.put("animals", animals);
 
-            return new ModelAndView(model, "animals.hbs");
+            return new ModelAndView(model, "animal.hbs");
         }, new HandlebarsTemplateEngine());
 
         //post submission
