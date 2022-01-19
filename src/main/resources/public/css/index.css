@@ -2,7 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: red;
+}
+
+.img-hero{
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #heading{
@@ -16,7 +21,7 @@
 }
 
 .btn-submit{
-    color:red;
+    color: white;
     background-color: #8CA1A4;
     width: 100%;
     font-weight: bold;
@@ -28,14 +33,14 @@
 }
 
 .btn-submit:hover{
-    background-color:black;
+    background-color: white;
     border: solid #7B94A4 2px;
     color: #7B94A4;
 }
 
 form{
     width: 50%;
-    margin-right:200px;
+    margin-left: 100px;
 }
 
 input{
@@ -52,4 +57,8 @@ select{
 
 #body-section{
     margin: 0;
+}
+
+.img-hero{
+    margin-left: -25px;
 }

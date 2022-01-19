@@ -1,4 +1,4 @@
 CREATE DATABASE wildlife_tracker;
 CREATE TABLE animals (id serial PRIMARY KEY, name text, danger text, health text, age text, location text);
-CREATE TABLE animals (id serial PRIMARY KEY, animal id int, location text, rangername text, lastsighting timestamp);
+CREATE TABLE sightings (id serial PRIMARY KEY, animal id int, location text, rangername text, lastsighting timestamp);
 CREATE DATABASE wildlife_tracker_test WITH TEMPLATE wildlife_tracker;
