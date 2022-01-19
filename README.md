@@ -3,12 +3,13 @@
 The app facilities easy tracking of wildlife animals and the state they are in, inorder to take care of them .
 
 
-##Author
+## Author
 Brian Muigai
 
-##Contact
-muigaibrian@gmail.com
-brian.muigai@student.moringaschool.com
+## Contact
+-  muigaibrian@gmail.com
+- brian.muigai@student.moringschool.com
+
 
 ## Description
 
@@ -28,6 +29,9 @@ Wildlife tacker is An application that allows Rangers to track wildlife sighting
 - JUnit v4.12
 - Jacoco Plugin
 - Velocity Templating Engine
+- Postgres Sql
+
+
 
 
 
